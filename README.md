@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Janhavi   
 
-<!--
-**JanhaviMupde/JanhaviMupde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student, exploring different areas of software and hardware development.  
+💡 Curious about how things work and enjoy learning by building projects.  
+🛠️ Comfortable with coding fundamentals and always looking to improve.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- C, C++, Java, JavaScript,  
+
+---
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms  
+- Springboot
+
+---
