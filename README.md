@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tech Stack
-- C, C++, Java, JavaScript,  
+- C, C++, Java, JavaScript
 
 ---
 
