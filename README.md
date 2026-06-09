@@ -2,7 +2,7 @@
 
 🎓 Engineering student, exploring different areas of software development.  
 💡 Curious about how things work and enjoy learning by building projects.  
-🛠️ Comfortable with coding fundamentals and always looking to improve.  
+🛠️ Comfortable with coding fundamentals and always looking to improve.   
 
 ---
 
